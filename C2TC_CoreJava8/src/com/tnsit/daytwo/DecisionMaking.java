@@ -1,4 +1,4 @@
-package day2;
+package com.tnsit.daytwo;
 
 public class DecisionMaking {
 	public static void main(String[] args) {

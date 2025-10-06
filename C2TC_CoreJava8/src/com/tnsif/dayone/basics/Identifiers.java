@@ -1,4 +1,4 @@
-package day1;
+package com.tnsif.dayone.basics;
 
 public class Identifiers {
 	public static void main(String[] args) {

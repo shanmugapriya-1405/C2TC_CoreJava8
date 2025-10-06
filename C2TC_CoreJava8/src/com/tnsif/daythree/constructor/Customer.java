@@ -1,4 +1,4 @@
-package day3.constructor;
+package com.tnsif.daythree.constructor;
 
 public class Customer {
 
