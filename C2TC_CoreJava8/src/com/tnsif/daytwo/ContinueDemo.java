@@ -1,4 +1,4 @@
-package com.tnsit.daytwo;
+package com.tnsif.daytwo;
 
 public class ContinueDemo {
 	public static void main(String[] args) {
