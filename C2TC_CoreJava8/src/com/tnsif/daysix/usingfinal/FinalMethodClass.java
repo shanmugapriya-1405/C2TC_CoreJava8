@@ -1,7 +1,7 @@
 package com.tnsif.daysix.usingfinal;
 
 public class FinalMethodClass {
-	public class FinalMethodClass {
+	
 		FinalMethodClass() {
 			System.out.println("This is a default constructor");
 		}
@@ -12,4 +12,6 @@ public class FinalMethodClass {
 		final void show() {
 			System.out.println("Value of a: " + a);
 		}
-}
+	}
+
+
