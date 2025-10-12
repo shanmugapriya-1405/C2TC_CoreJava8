@@ -1,5 +1,7 @@
 package com.tnsif.dayeight.interfaces.instanceinterfaces;
 
-public class Phone {
+public interface Phone {
+	void call();
 
+	void sms();
 }
